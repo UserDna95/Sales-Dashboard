@@ -1,4 +1,4 @@
-# Sales-Dashboard-Indian-Dataset-Codebasics
+# Sales-Dashboard-Indian-Dataset
 Power BI dashboard assessing company sales in Indian cities 
 
 Problem Statement:
