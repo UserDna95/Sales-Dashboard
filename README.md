@@ -37,5 +37,6 @@ Overall, this dashboard provides a solid foundation for visualizing sales data a
 Additionally, evaluating the performance of online versus in-store sales can offer valuable insights into potential areas for boosting E-commerce sales. By identifying key factors contributing to success in certain cities and channels, we can strategically implement these practices to drive overall sales growth.
 
     Profit Vs. Sales Dashboard (Power BI, SQL)
-![Screen Shot 2025-02-20 at 5 42 39 PM](2025-02-20 (21).png)
-
+![Screen Shot 2025-02-20 at 5 48 38 PM](https://github.com/UserDna95/Sales-Dashboard-Indian-Dataset/blob/main/2025-02-20%20(19).png)
+![Screen Shot 2025-02-20 at 5 48 38 PM](https://github.com/UserDna95/Sales-Dashboard-Indian-Dataset/blob/main/2025-02-20%20(20).png)
+![Screen Shot 2025-02-20 at 5 48 38 PM](https://github.com/UserDna95/Sales-Dashboard-Indian-Dataset/blob/main/2025-02-20%20(21).png)
