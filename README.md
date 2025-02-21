@@ -8,7 +8,7 @@ Step 1)
 Run basic queries in SQL to understand the dataset
 
 Step 2)
-Clean data & perform ETL in Power BI
+Clean data & create relationships between tables using primary keys or inserting indexes where necessary 
 
 Step 3) 
 Build Dashboard
